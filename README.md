@@ -1,2 +1,2 @@
 # AI-ChatBot
-Create AI ChatBot Using Machinlearning algorithm,ChatterBot Library and Flask Framwork
+Create AI ChatBot Using Machine learning algorithm, ChatterBot Library and Flask Framwork
